@@ -20,4 +20,17 @@ const allWagesFor = function () {
 
     return payable
 }
+const employeeRecord = [firstName,
+    familyName,
+    title,payperhour]
+ function createEmployedRecord (){ [
+    timeInEvents ,timeOutEvent]
+return employeeRecord
 
+}
+console.log (this.employeeRecord);it
+return =
+}
+
+
+function createEmployedRecord()
